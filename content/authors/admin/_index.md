@@ -77,11 +77,10 @@ skills:
         percent: 60
         icon: camera-retro
         icon_pack: fas
-      - name: Hiking
+      - name: Planting
         description: ''
-        percent: -10
-        icon: person-hiking
-        icon_pack: fas
+        percent: 10
+        icon: 🌺
 
 
 # Social/Academic Networking
