@@ -16,7 +16,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Graduate Student in Neuroscience
+role: Doctoral Candidate in Neuroscience
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Jianqiao Hu a graduate student in the Graduate Program in Neuroscience, co-advised by Dr. Bing Brunton and Dr. Edgar Walker. His research focus revolves around unraveling the intricate processes through which sensory information is represented in the brain, utilizing machine learning techniques. Before relocating to Seattle, Lawrence dedicated his efforts to improving the scalability of high-throughput sequencing data preprocessing, aiming to deepen our understanding of somatic recombination mechanisms.
+Jianqiao Hu a second-year doctoral candidate in the Graduate Program in Neuroscience at the University of Washington, co-advised by Dr. Bing Brunton and Dr. Edgar Walker. His research focus revolves around unraveling the intricate processes through which sensory information is represented in the brain, utilizing machine learning techniques. Before relocating to Seattle, Lawrence dedicated his efforts to improving the scalability of high-throughput sequencing data preprocessing, aiming to deepen our understanding of somatic recombination mechanisms.
 {style="text-align: justify;"}
