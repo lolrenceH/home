@@ -63,7 +63,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Graduate Student
-          company: Graduate Program in Neuroscience, University of Washington !!!
+          company: Graduate Program in Neuroscience, University of Washington
           company_url: 'https://www.bingbrunton.com/'
           company_logo: org-gc
           location: Seattle
