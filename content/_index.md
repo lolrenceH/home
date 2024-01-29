@@ -65,7 +65,7 @@ sections:
         - title: Graduate Student
           company: Graduate Program in Neuroscience, University of Washington
           company_url: 'https://www.bingbrunton.com/'
-          company_logo: org-gc
+          company_logo: org-x
           location: Seattle
           date_start: '2022-09-01'
           date_end: ''
