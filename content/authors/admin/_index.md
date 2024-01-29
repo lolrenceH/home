@@ -80,7 +80,8 @@ skills:
       - name: Planting
         description: ''
         percent: 10
-        icon: 🌺
+        icon: :flower:
+        icon_pack: emoji
 
 
 # Social/Academic Networking
