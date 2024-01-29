@@ -71,16 +71,18 @@ skills:
       - name: Drawing
         description: ''
         percent: 80
-        icon: :art:
-        icon_pack: fas
+        icon: 🎨
       - name: Photography
         description: ''
         percent: 60
         icon: camera-retro
         icon_pack: fas
       - name: Hiking
+        description: ''
         percent: -10
         icon: person-hiking
+        icon_pack: fas
+
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
