@@ -1,3 +1,4 @@
+
 ---
 # Display name
 title: Jianqiao (Lawrence) Hu
@@ -71,7 +72,10 @@ skills:
       - name: Drawing
         description: ''
         percent: 80
-        icon: 🎨
+        icon = ":smile:"
+        icon_pack = "emoji"
+        name = "Emojiness"
+        description = "100%"  
       - name: Photography
         description: ''
         percent: 60
