@@ -60,7 +60,7 @@ skills:
         percent: 60
         icon: chart-line
         icon_pack: fas
-      - name: Website Making
+      - name: Website Design
         description: ''
         percent: 10
         icon: database
