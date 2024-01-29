@@ -3,7 +3,9 @@ title: "TrieDedup: A fast trie-based deduplication algorithm to
 handle ambiguous bases in high-throughput sequencing"
 authors:
 - admin
-- {Sai Luo, Ming Tian, Frederick W. Alt, Adam Yongxin Ye}}
+- Sai Luo 
+- Ming Tian 
+- Adam Yongxin Ye
 date: "2022-02-22T00:00:00Z"
 doi: " https://doi.org/10.1101/2022.02.20.481170"
 
