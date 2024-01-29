@@ -72,7 +72,7 @@ skills:
       - name: Drawing
         description: ''
         percent: 80
-        icon: ":smile:"
+        icon: ":art:"
         icon_pack: emoji
       - name: Photography
         description: ''
@@ -82,8 +82,8 @@ skills:
       - name: Planting
         description: ''
         percent: 10
-        icon: home
-        icon_pack: hero
+        icon: ":sunflower:"
+        icon_pack: emoji
 
 
 # Social/Academic Networking
