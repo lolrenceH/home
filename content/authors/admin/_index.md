@@ -72,9 +72,8 @@ skills:
       - name: Drawing
         description: ''
         percent: 80
-        icon = ":smile:"
+        icon = :smile:
         icon_pack = "emoji"
-        name = "Emojiness"
         description = "100%"  
       - name: Photography
         description: ''
