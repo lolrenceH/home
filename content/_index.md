@@ -63,7 +63,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Graduate Student
-          company: University of Washington
+          company: Graduate Program in Neuroscience, University of Washington
           company_url: 'https://www.bingbrunton.com/'
           company_logo: org-gc
           location: Seattle
@@ -76,7 +76,7 @@ sections:
           #     * Modelling
           #     * Deploying
         - title: Bioinformatics Assistant II
-          company: Boston Children's Hospital
+          company: Fred Alt lab, Boston Children's Hospital
           company_url: 'https://www.childrenshospital.org/research/labs/alt-laboratory-research'
           company_logo: org-x
           location: Boston
@@ -84,14 +84,14 @@ sections:
           date_end: '2022-06-01'
           # description: Taught electronic engineering and researched semiconductor physics.
         - title: Bioinformatics Consultant
-          company: Mayo Clinic
+          company: Tsuneya Ikezu lab, Mayo Clinic
           company_url: 'https://www.mayo.edu/research/labs/molecular-neurotherapeutics/overview'
           company_logo: org-x
           location: Boston
-          date_start: '2018-06-01'
-          date_end: '2020-06-01'
+          date_start: '2020-06-01'
+          date_end: '2021-06-01'
         - title: Research Assistant 
-          company: Boston University School of Medicine
+          company: Tsuneya Ikezu lab, Boston University School of Medicine
           company_url: 'https://www.mayo.edu/research/labs/molecular-neurotherapeutics/overview'
           company_logo: org-x
           location: Boston
@@ -168,33 +168,33 @@ sections:
   #     # Choose a layout view
   #     view: compact
   #     columns: '2'
-  - block: portfolio
-    id: projects
-    content:
-      title: Projects
-      filters:
-        folders:
-          - project
-      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-      default_button_index: 0
-      # Filter toolbar (optional).
-      # Add or remove as many filters (`filter_button` instances) as you like.
-      # To show all items, set `tag` to "*".
-      # To filter by a specific tag, set `tag` to an existing tag name.
-      # To remove the toolbar, delete the entire `filter_button` block.
-      buttons:
-        - name: All
-          tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
-    design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
-      view: showcase
-      # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
+  # - block: portfolio
+  #   id: projects
+  #   content:
+  #     title: Projects
+  #     filters:
+  #       folders:
+  #         - project
+  #     # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+  #     default_button_index: 0
+  #     # Filter toolbar (optional).
+  #     # Add or remove as many filters (`filter_button` instances) as you like.
+  #     # To show all items, set `tag` to "*".
+  #     # To filter by a specific tag, set `tag` to an existing tag name.
+  #     # To remove the toolbar, delete the entire `filter_button` block.
+  #     buttons:
+  #       - name: All
+  #         tag: '*'
+  #       - name: Deep Learning
+  #         tag: Deep Learning
+  #       - name: Other
+  #         tag: Demo
+  #   design:
+  #     # Choose how many columns the section has. Valid values: '1' or '2'.
+  #     columns: '1'
+  #     view: showcase
+  #     # For Showcase view, flip alternate rows?
+  #     flip_alt_rows: false
   - block: markdown
     content:
       title: Gallery
