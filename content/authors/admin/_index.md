@@ -1,7 +1,7 @@
 
 ---
 # Display name
-title: Jianqiao (Lawrence) Hu
+title: Lawrence Jianqiao Hu
 
 
 # Full name (for SEO)
@@ -16,7 +16,10 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Doctoral Candidate in Neuroscience
+role: 
+  - name: Doctoral Candidate in Neuroscience
+  - name: Ph.D. Ambassador, UW Medicine
+    url: https://research-grad-ed.uwmedicine.org/staff-item/jianqiao-hu/
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -28,9 +31,9 @@ bio: My research interests include...
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - World Models
-  - Complex animal behaviors
+  - Deep Reinforcement Learning
+  - Active Sensing Behaviors
+  - Autonomous Robotics
 
 # # Education to show in About widget
 # education:
@@ -120,5 +123,5 @@ social:
 highlight_name: true
 ---
 
-Jianqiao Hu a second-year doctoral candidate in the Graduate Program in Neuroscience at the University of Washington, co-advised by Dr. Bing Brunton and Dr. Edgar Walker. His research focus revolves around unraveling the intricate processes through which sensory information is represented in the brain, utilizing machine learning techniques. Before relocating to Seattle, Lawrence dedicated his efforts to improving the scalability of high-throughput sequencing data preprocessing, aiming to deepen our understanding of somatic recombination mechanisms.
+Lawrence Jianqiao (Jyen-chyow) Hu is a third-year doctoral candidate in the Graduate Program in Neuroscience at the University of Washington, co-advised by Dr. Bing Brunton and Dr. Edgar Walker. His research explores how animals actively gather noisy and incomplete information for survival, modeled through deep reinforcement learning. Such active sensing helps them infer important aspects of the environment that are otherwise inaccessible, ultimately achieving biologically relevant goals. Before relocating to Seattle, Lawrence dedicated his efforts to improving the scalability of high-throughput sequencing data preprocessing, aiming to deepen our understanding of somatic recombination mechanisms and develop HIV vaccines.
 {style="text-align: justify;"}

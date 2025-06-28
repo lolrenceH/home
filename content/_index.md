@@ -65,7 +65,7 @@ sections:
         - title: Doctoral Candidate
           company: Graduate Program in Neuroscience, University of Washington
           company_url: 'https://www.bingbrunton.com/'
-          company_logo: org-x
+          company_logo: Washington_Huskies_logo
           location: Seattle
           date_start: '2022-09-01'
           date_end: ''
@@ -78,7 +78,7 @@ sections:
         - title: Bioinformatics Assistant II
           company: Fred Alt lab, Boston Children's Hospital
           company_url: 'https://www.childrenshospital.org/research/labs/alt-laboratory-research'
-          company_logo: org-x
+          company_logo: Boston-Childrens-Hospital
           location: Boston
           date_start: '2020-07-01'
           date_end: '2022-06-01'
@@ -86,14 +86,14 @@ sections:
         - title: Bioinformatics Consultant
           company: Tsuneya Ikezu lab, Mayo Clinic
           company_url: 'https://www.mayo.edu/research/labs/molecular-neurotherapeutics/overview'
-          company_logo: org-x
-          location: Boston
+          company_logo: Mayo_Clinic_logo
+          location: Florida
           date_start: '2020-06-01'
           date_end: '2021-06-01'
         - title: Research Assistant 
           company: Tsuneya Ikezu lab, Boston University School of Medicine
           company_url: 'https://www.mayo.edu/research/labs/molecular-neurotherapeutics/overview'
-          company_logo: org-x
+          company_logo: Boston_University
           location: Boston
           date_start: '2018-06-01'
           date_end: '2020-06-01'
