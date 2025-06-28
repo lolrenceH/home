@@ -16,10 +16,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: 
-  - name: Doctoral Candidate in Neuroscience
-  - name: Ph.D. Ambassador, UW Medicine
-    url: https://research-grad-ed.uwmedicine.org/staff-item/jianqiao-hu/
+role: >
+  Doctoral Candidate in Neuroscience  
+  <br>
+  [Ph.D. Ambassador, UW Medicine](https://research-grad-ed.uwmedicine.org/staff-item/jianqiao-hu/)
+
 
 # Organizations/Affiliations to show in About widget
 organizations:
