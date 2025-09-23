@@ -35,12 +35,12 @@ links:
   url: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-024-05775-w
 # url_pdf: https://www.biorxiv.org/content/10.1101/2022.02.20.481170v1.full.pdf
 url_code: 'https://github.com/lolrenceH/TrieDedup'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+# url_dataset: '#'
+# url_poster: '#'
+# url_project: ''
+# url_slides: ''
+# url_source: '#'
+# url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
