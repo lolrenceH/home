@@ -1,6 +1,5 @@
 ---
-title: "TrieDedup: A fast trie-based deduplication algorithm to
-handle ambiguous bases in high-throughput sequencing"
+title: "TrieDedup: A fast trie-based deduplication algorithm to \nhandle ambiguous bases in high-throughput sequencing"
 authors:
 - admin
 - Sai Luo 
