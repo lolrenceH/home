@@ -7,11 +7,11 @@ authors:
 - Ming Tian 
 - Adam Yongxin Ye
 
-date: "2022-02-22T00:00:00Z"
-doi: " https://doi.org/10.1101/2022.02.20.481170"
+date: "2024-04-18T00:00:00Z"
+doi: "https://doi.org/10.1186/s12859-024-05775-w"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-04-18T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -19,7 +19,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "BMC Bioinformatics"
 publication_short: ""
 
 abstract: High-throughput sequencing is a powerful tool and is extensively applied in biological studies. However sequencers may report bases with low qualities and lead to ambiguous bases, 'N's. PCR duplicates introduced in library preparation need to be removed in genomics studies, and several deduplication tools have been developed for this purpose. However, the existing tools cannot deal with 'N's correctly or efficiently. Here we proposed and implemented TrieDedup, which uses trie (prefix tree) structure to compare and store sequences. TrieDedup can handle ambiguous base 'N's, and efficiently deduplicate at the level of raw sequences. We also reduced its memory usage by approximately 20% by implementing restrictedListDict. We benchmarked the performance of the algorithm and showed that TrieDedup can deduplicate reads up to 160-fold faster than pairwise comparison at a cost of 36-fold higher memory usage. TrieDedup algorithm may facilitate PCR deduplication, barcode or UMI assignment and repertoire diversity analysis of large scale high-throughput sequencing datasets with its ultra-fast algorithm that can account for ambiguous bases due to sequencing errors.
@@ -33,8 +33,8 @@ featured: true
 
 links:
 - name: Custom Link
-  url: https://www.biorxiv.org/content/10.1101/2022.02.20.481170v1
-url_pdf: https://www.biorxiv.org/content/10.1101/2022.02.20.481170v1.full.pdf
+  url: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-024-05775-w
+# url_pdf: https://www.biorxiv.org/content/10.1101/2022.02.20.481170v1.full.pdf
 url_code: 'https://github.com/lolrenceH/TrieDedup'
 url_dataset: '#'
 url_poster: '#'
