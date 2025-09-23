@@ -1,7 +1,7 @@
 ---
 title: COSYNE Poster Presentation 2025
 
-event: No upcoming talks at the moment... Stay tuned.
+event: COSYNE 2025
 # event_url: https://example.org
 
 location: 
@@ -39,10 +39,10 @@ image:
 #     icon_pack: fab
 #     name: Follow
 #     url: https://twitter.com/georgecushen
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
+# url_code: ''
+# url_pdf: ''
+# url_slides: ''
+# url_video: ''
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -58,7 +58,7 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects:
   - []
----
+<!-- ---
 
 {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.
@@ -70,4 +70,4 @@ Slides can be added in a few ways:
 - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
 
-Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
+Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page. -->
