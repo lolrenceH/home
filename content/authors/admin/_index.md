@@ -51,47 +51,6 @@ interests:
 #       institution: Massachusetts Institute of Technology
 #       year: 2008
 
-# Skills
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
-  - name: Technical
-    items:
-      - name: Python
-        description: ''
-        percent: 100
-        icon: python
-        icon_pack: fab
-      - name: Deep Learning
-        description: ''
-        percent: 60
-        icon: chart-line
-        icon_pack: fas
-      - name: Website Design
-        description: ''
-        percent: 10
-        icon: database
-        icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Drawing
-        description: ''
-        percent: 80
-        icon: ":art:"
-        icon_pack: emoji
-      - name: Photography
-        description: ''
-        percent: 60
-        icon: camera-retro
-        icon_pack: fas
-      - name: Planting
-        description: ''
-        percent: 10
-        icon: ":sunflower:"
-        icon_pack: emoji
-
-
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
