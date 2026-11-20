@@ -62,6 +62,20 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Venture Fellow
+          company: Pack Ventures
+          company_url: 'https://www.packvc.com/the-pack/'
+          company_logo: Pack_Ventures
+          location: Seattle
+          date_start: '2026-09-01'
+          date_end: ''
+        - title: Co-founder
+          company: MultiSensKnit
+          company_url: 'https://www.linkedin.com/posts/ayankovskaya_2026-hollomon-health-innovation-challenge-activity-7430009328243343361-Cw6p'
+          company_logo: MultiSensKnit
+          location: Seattle
+          date_start: '2025-11-01'
+          date_end: '2026-03-01'
         - title: Doctoral Candidate
           company: Graduate Program in Neuroscience, University of Washington
           company_url: 'https://www.bingbrunton.com/'
@@ -195,17 +209,6 @@ sections:
   #     view: showcase
   #     # For Showcase view, flip alternate rows?
   #     flip_alt_rows: false
-  - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
   - block: markdown
     content:
       title: Gallery
@@ -215,16 +218,16 @@ sections:
     design:
       columns: '1'
   - block: collection
+    id: publications
     content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
+      title: Publications
+      # 0 = show every publication (no "See all" link)
+      count: 0
       filters:
         folders:
           - publication
-        exclude_featured: true
+      archive:
+        enable: false
     design:
       columns: '2'
       view: citation
