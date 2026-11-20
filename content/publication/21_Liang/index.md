@@ -1,24 +1,24 @@
 ---
-title: "Human neural cell type-specific extracellular vesicle proteome defines disease-related molecules associated with activated astrocytes in Alzheimer's disease brain"
+title: "Ku70 suppresses alternative end joining in G1-arrested progenitor B cells"
 authors:
-- Yang You
-- Satoshi Muraoka
-- Mark P. Jedrychowski
+- Zhuoyi Liang
+- Vipul Kumar
+- Marie Le Bouteiller
+- Jeffrey Zurita
+- Josefin Kenrick
+- Sherry G. Lin
+- Jiangman Lou
 - admin
-- Amanda K. McQuade
-- Tracy Young-Pearse
-- Roshanak Aslebagh
-- Scott A. Shaffer
-- Steven P. Gygi
-- Mathew Blurton-Jones
-- Wayne W. Poon
-- Tsuneya Ikezu
+- Adam Yongxin Ye
+- Cristian Boboila
+- Frederick W. Alt
+- Richard L. Frock
 
-date: "2022-01-14T00:00:00Z"
-doi: "https://doi.org/10.1002/jev2.12183"
+date: "2021-05-25T00:00:00Z"
+doi: "https://doi.org/10.1073/pnas.2103630118"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-01-14T00:00:00Z"
+publishDate: "2021-05-25T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -26,25 +26,25 @@ publishDate: "2022-01-14T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Extracellular Vesicles"
-publication_short: "JEV"
+publication: "Proceedings of the National Academy of Sciences"
+publication_short: "PNAS"
 
-abstract: Extracellular vesicles (EVs) are membrane-bound particles released by cells that carry molecular information and play crucial roles in intercellular communication. This study presents a comprehensive proteomic analysis of human neural cell type-specific EVs, revealing disease-related molecules associated with activated astrocytes in Alzheimer's disease brain. Using advanced mass spectrometry techniques, we identified cell type-specific EV protein signatures and characterized how these profiles change in Alzheimer's disease, providing new insights into neuroinflammation and potential biomarkers for disease progression.
+abstract: DNA double-strand breaks (DSBs) are repaired by two major pathways - homologous recombination and non-homologous end joining (NHEJ). Alternative end joining (alt-EJ) is a backup repair pathway that can lead to chromosomal translocations and genomic instability. This study investigates the role of Ku70, a key component of the classical NHEJ pathway, in suppressing alternative end joining in G1-arrested progenitor B cells. Using genetic and molecular approaches, we demonstrate that Ku70 plays a critical role in maintaining genomic stability by preventing the use of error-prone alt-EJ pathways during V(D)J recombination and other DSB repair processes in developing B cells.
 
 # Summary. An optional shortened abstract.
-summary: Comprehensive proteomic analysis of human neural cell type-specific extracellular vesicles reveals disease-related molecules associated with activated astrocytes in Alzheimer's disease brain.
+summary: This study demonstrates that Ku70 suppresses alternative end joining in G1-arrested progenitor B cells, playing a critical role in maintaining genomic stability during V(D)J recombination.
 
 tags:
-- Alzheimer's disease
-- Extracellular vesicles
-- Proteomics
-- Astrocytes
-- Neuroinflammation
+- DNA repair
+- B cell development
+- Genomic stability
+- V(D)J recombination
+- NHEJ
 featured: false
 
 links:
 - name: Journal Link
-  url: https://doi.org/10.1002/jev2.12183
+  url: https://doi.org/10.1073/pnas.2103630118
 # url_pdf: ''
 # url_code: ''
 # url_dataset: ''
@@ -68,4 +68,4 @@ projects: []
 slides: ""
 ---
 
-This study provides important insights into the role of extracellular vesicles in Alzheimer's disease pathology, particularly focusing on astrocyte activation and neuroinflammation. The cell type-specific proteomic profiles identified here may serve as valuable biomarkers for disease progression and therapeutic targets.
+This research provides important insights into DNA repair mechanisms in developing B cells and the role of Ku70 in preventing genomic instability. The findings have implications for understanding immune system development and cancer biology.

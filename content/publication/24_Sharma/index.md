@@ -1,24 +1,29 @@
 ---
-title: "Ku70 suppresses alternative end joining in G1-arrested progenitor B cells"
+title: "The lipid globotriaosylceramide promotes germinal center B cell responses and antiviral immunity"
 authors:
-- Zhuoyi Liang
-- Vipul Kumar
-- Marie Le Bouteiller
-- Jeffrey Zurita
-- Josefin Kenrick
-- Sherry G. Lin
-- Jiangman Lou
-- admin
+- Pankaj Sharma
+- Xiaolong Zhang
+- Kevin Ly
+- Yuxiang Zhang
+- Yu Hu
 - Adam Yongxin Ye
-- Cristian Boboila
+- admin
+- Jin Hwan Kim
+- Mumeng Lou
+- Chuan Wang
+- Quinton Celuzza
+- Yuji Kondo
+- Koichi Furukawa
+- David R. Bundle
+- Keiko Furukawa
 - Frederick W. Alt
-- Richard L. Frock
+- Florian Winau
 
-date: "2021-05-25T00:00:00Z"
-doi: "https://doi.org/10.1073/pnas.2103630118"
+date: "2024-02-16T00:00:00Z"
+doi: "https://doi.org/10.1126/science.adg0564"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-05-25T00:00:00Z"
+publishDate: "2024-02-16T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -26,33 +31,25 @@ publishDate: "2021-05-25T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Proceedings of the National Academy of Sciences"
-publication_short: "PNAS"
+publication: "Science"
+publication_short: "Science"
 
-abstract: DNA double-strand breaks (DSBs) are repaired by two major pathways - homologous recombination and non-homologous end joining (NHEJ). Alternative end joining (alt-EJ) is a backup repair pathway that can lead to chromosomal translocations and genomic instability. This study investigates the role of Ku70, a key component of the classical NHEJ pathway, in suppressing alternative end joining in G1-arrested progenitor B cells. Using genetic and molecular approaches, we demonstrate that Ku70 plays a critical role in maintaining genomic stability by preventing the use of error-prone alt-EJ pathways during V(D)J recombination and other DSB repair processes in developing B cells.
+abstract: Germinal center B cells produce the high-affinity antibodies that underlie durable immunity, but the lipid cues that shape their responses are poorly understood. This study shows that the glycosphingolipid globotriaosylceramide (Gb3), expressed on germinal center B cells, is essential for the production of high-affinity antibodies. Gb3 binds CD19 and disengages it from its chaperone CD81, allowing CD19 to move to the B cell receptor complex and trigger signaling. Gb3 also regulates MHC class II expression, increasing the diversity of T follicular helper and germinal center B cells that react with subdominant epitopes. In influenza infection, raising Gb3 levels, either endogenously or exogenously, promotes broadly reactive antibody responses and cross-protection. Together, these data show that Gb3 determines both the affinity and the breadth of B cell immunity and has potential as a vaccine adjuvant.
 
 # Summary. An optional shortened abstract.
-summary: This study demonstrates that Ku70 suppresses alternative end joining in G1-arrested progenitor B cells, playing a critical role in maintaining genomic stability during V(D)J recombination.
+summary: The glycosphingolipid Gb3 on germinal center B cells drives high-affinity, broadly reactive antibody responses by releasing CD19 from CD81, and raising Gb3 levels confers cross-protection against influenza.
 
 tags:
-- DNA repair
-- B cell development
-- Genomic stability
-- V(D)J recombination
-- NHEJ
+- B cell immunity
+- Germinal center
+- Glycosphingolipids
+- Influenza
+- Vaccine adjuvant
 featured: false
 
 links:
 - name: Journal Link
-  url: https://doi.org/10.1073/pnas.2103630118
-# url_pdf: ''
-# url_code: ''
-# url_dataset: ''
-# url_poster: ''
-# url_project: ''
-# url_slides: ''
-# url_source: ''
-# url_video: ''
+  url: https://www.science.org/doi/10.1126/science.adg0564
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -68,4 +65,4 @@ projects: []
 slides: ""
 ---
 
-This research provides important insights into DNA repair mechanisms in developing B cells and the role of Ku70 in preventing genomic instability. The findings have implications for understanding immune system development and cancer biology.
+This work identifies a lipid, Gb3, as a regulator of both the affinity and the breadth of germinal center B cell responses, and shows that boosting Gb3 improves cross-protective antibody responses against influenza. The findings point to Gb3 as a candidate vaccine adjuvant.

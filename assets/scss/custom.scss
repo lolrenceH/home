@@ -1,0 +1,20 @@
+/* Site-specific overrides (loaded after the theme's styles). */
+
+/* Publications: compact citation list on the homepage and on /publication/ */
+.pub-list-item.view-citation {
+  font-size: 0.8rem;
+  line-height: 1.55;
+  margin-bottom: 0.9rem !important;
+}
+.pub-list-item.view-citation .pub-icon {
+  font-size: 0.8rem;
+}
+.pub-list-item.view-citation p {
+  margin-top: 0.15rem;
+  margin-bottom: 0;
+}
+.pub-list-item.view-citation .btn-links .btn,
+.pub-list-item.view-citation .btn {
+  font-size: 0.65rem;
+  padding: 0.1rem 0.35rem;
+}
