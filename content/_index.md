@@ -72,9 +72,7 @@ sections:
 
         **Learning:** how early-stage investors evaluate deep-tech and bio companies, as a Venture Fellow at [Pack Ventures](https://www.packvc.com/the-pack/).
 
-        **Painting:** oil on canvas, mostly portraits. A few pieces are in the gallery below.
-
-        **Reading:** *The Idea of the Brain* by Matthew Cobb.
+        **Painting:** oil on canvas, mostly flowers. A few pieces are in the gallery below.
 
         *Updated November 2026.*
     design:
