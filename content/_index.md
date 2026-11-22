@@ -42,14 +42,43 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: skills
+  - block: features
+    id: work
     content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
+      title: What I Work With
+      subtitle: ''
+      items:
+        - name: Deep reinforcement learning for embodied agents
+          description: Training agents that must actively sense their world. Current focus is how flying animals estimate wind direction, a quantity they cannot measure directly mid-flight.
+          icon: robot
+          icon_pack: fas
+        - name: Decoding behavior from brain recordings
+          description: Deep learning models for noninvasive neural data, developed as a machine learning researcher on the DARPA Neural Evidence Aggregation Tool program.
+          icon: brain
+          icon_pack: fas
+        - name: Large-scale sequencing pipelines
+          description: Built TrieDedup, an ultra-fast preprocessor for high-throughput sequencing (160× speedup), and antibody-repertoire pipelines for HIV-1 vaccine research.
+          icon: dna
+          icon_pack: fas
     design:
       columns: '1'
+  - block: markdown
+    id: now
+    content:
+      title: Now
+      subtitle: What I'm up to this season
+      text: |-
+        **Building:** a deep RL agent that learns to track odor plumes by actively sensing the wind, and writing it up for my dissertation.
+
+        **Learning:** how early-stage investors evaluate deep-tech and bio companies, as a Venture Fellow at [Pack Ventures](https://www.packvc.com/the-pack/).
+
+        **Painting:** oil on canvas, mostly portraits. A few pieces are in the gallery below.
+
+        **Reading:** *The Idea of the Brain* by Matthew Cobb.
+
+        *Updated November 2026.*
+    design:
+      columns: '2'
   - block: experience
     content:
       title: Experience
