@@ -4,6 +4,12 @@ title: ''
 date: 2022-10-24
 type: landing
 
+# Captions for gallery images (shown in the lightbox when an image is opened)
+gallery_item:
+  - album: demo
+    image: A_tidal.jpg
+    caption: 'Tidal, oil on canvas'
+
 sections:
   - block: hero
     demo: true # Only display this section in the Hugo Blox Builder demo site
